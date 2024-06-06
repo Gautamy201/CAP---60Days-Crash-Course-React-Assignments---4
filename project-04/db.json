@@ -1,0 +1,10 @@
+{
+  "tickets": [],
+  "user": [
+    {
+      "id": "3bdd",
+      "email": "bruce@wayne.com",
+      "password": "gotham123"
+    }
+  ]
+}
